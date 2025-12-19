@@ -1,7 +1,6 @@
 1. The result of GPTZero:
    
-
-<img width="2612" height="1444" alt="image" src="https://github.com/user-attachments/assets/9bb9029c-88da-44dd-a466-ff34e03aa79f" />
+<img src="https://github.com/user-attachments/assets/9bb9029c-88da-44dd-a466-ff34e03aa79f" width="600" alt="image" />
 
 
 
