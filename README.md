@@ -18,11 +18,6 @@
 
 
 
-4.The result of copyleaks 
-
-
-<img src="https://github.com/user-attachments/assets/993feb70-bfa9-4157-aab9-59b6e5e2815f" width="1600"  alt="image"/>
-
 
 
 
